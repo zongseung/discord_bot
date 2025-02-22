@@ -51,4 +51,4 @@ async def draw(ctx, num_winners: int):
         await ctx.send(f"⚠️ Error occurred: {str(e)}")
         
 # 봇 실행 (Run the bot)
-bot.run('MTM0MjQ0MzQzNTA0MjUzNzUyMg.G93HH8.OXyrBD4ZnPibHFBh-ogqtLkXTubbPK825GmGLI')
+bot.run('')
